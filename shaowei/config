@@ -1,0 +1,5 @@
+
+port=9000
+ip=127.0.0.1
+shaowei=/shaowei/sw
+root=/shaowei/root
